@@ -1,0 +1,16 @@
+@media(max-width:576px){
+    #showcase{
+        h1{
+            font-size: 55px;
+            text-transform: capitalize;
+            margin-top: 60px;
+}
+    }
+}
+@media(max-width:768px){
+    #author{
+        .card{
+            margin: 15px 0px;
+        }
+    }
+}

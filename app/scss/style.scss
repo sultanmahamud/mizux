@@ -1,0 +1,10 @@
+body{
+    text-transform: capitalize;
+}
+
+@import'./default';
+@import'./variable';
+@import'./_header.scss';
+@import'./_nasting.scss';
+@import'./_showcase.scss';
+@import'./_responsive.scss';
